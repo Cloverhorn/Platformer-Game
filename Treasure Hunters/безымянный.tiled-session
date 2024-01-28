@@ -1,0 +1,106 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 4.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/8eef3c7226c8e8325b2d385ccdcad8ce.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/exitButton.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/menuButtons.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/menulLogo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/безымянный.tmx": {
+            "scale": 1.149462890625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 511.9782507115246,
+                "y": 287.5255936451298
+            }
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/безымянный.tmx#Objects": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 1.tmx": {
+            "scale": 1.149462890625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 511.10827917250754,
+                "y": 287.09060787562123
+            }
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 4.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 957,
+                "y": 808
+            }
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 5.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1119,
+                "y": 560
+            }
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/tilesets/Decorations.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/tilesets/Main.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/tilesets/Misc.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5
+        },
+        "MenuTuleSet.tsx": {
+            "dynamicWrapping": false
+        }
+    },
+    "last.imagePath": "H:/Мой диск/WebDev/projects/Platformer Game/img",
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 32,
+    "openFiles": [
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/безымянный.tmx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/exitButton.tsx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 1.tmx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 4.tmx"
+    ],
+    "project": "безымянный.tiled-project",
+    "recentFiles": [
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/безымянный.tmx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/exitButton.tsx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 1.tmx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/tiled/maps/Level 4.tmx",
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/8eef3c7226c8e8325b2d385ccdcad8ce.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/PlatformerTiles.tsx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "111.tsx": {
+            "dynamicWrapping": false
+        },
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/PlatformerTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/14-TileSets",
+    "openFiles": [
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/PlatformerTiles.tsx"
+    ],
+    "project": "123.tiled-project",
+    "recentFiles": [
+        "H:/Мой диск/WebDev/projects/Platformer Game/img/Sprites/PlatformerTiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
